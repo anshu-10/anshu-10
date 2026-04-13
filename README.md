@@ -1,5 +1,10 @@
-# 💫 About Me:
-I’m a software developer who builds web applications and IoT systems that solve real-world problems
+# 🦖 Hi, I'm Anshu Jamare
+
+I’m a developer who builds web Application and IoT projects that solve real problems 💻⚙️
+I mainly work with Java, React, and Machine Learning
+I’m looking to contribute to meaningful projects and grow through real experience 🌱
+I enjoy coding, figuring things out, and building things that actually work 🔧
+
 
 
 ## 🌐 Socials:
